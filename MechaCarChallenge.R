@@ -1,0 +1,5 @@
+library(tidyverse)
+install.packages("tidyverse")
+mpg_table <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
+lm(mpg_table)
+summary(lm(mpg_table))
