@@ -61,5 +61,10 @@ Lot 3 t-test shows the mean at 1496.14 which concludes no significant statistica
 
 ![ttest_lot3](https://user-images.githubusercontent.com/30300621/191859133-b02f62d9-03b1-44eb-851b-f082b69fb149.PNG)
 
+## Study Design: MechaCar vs Competition
 
+How does MechaCar compare to the competition? To answer this question, several items and research needs to take place. Certain metrics need to be identified to be able to check the differences. Certain metrics that matter to potential customers looking to purchase reliable transportation. Some metrics can be the of fuel, for example, city or highway fuel efficiency. Other metrics can be horse power, maintenance cost, or safety rating. 
 
+After comparing the metrics for MechaCar and the competition, a null hypothesis will determine what areas MechaCar remains competitive against the competition. An alternative hypothesis will show what areas need improvement to fix any issues that cause MechaCar from being competitive. 
+
+To evaluate these items in comparison to the competition, an analysis of variance (ANOVA) test. The ANOVA test can show if the mean from multiple items are siomilar or different.  The data needed to conduct the statistical tests would have to be similar to the MechaCar data to make sure the evaluation is a real comparison. 
